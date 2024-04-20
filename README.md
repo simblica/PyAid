@@ -13,7 +13,7 @@ PyAid is a Python tool designed to assist Python users with module installation 
 To use PyAid, simply clone the repository and run the `pyaid.py` script. Ensure that you have Python installed on your system.
 
 ```bash
-git clone https://github.com/your-username/PyAid.git
+git clone https://github.com/simblica/PyAid.git
 cd PyAid
 python pyaid.py
 ```
